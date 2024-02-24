@@ -1,0 +1,21 @@
+nav{
+ border-radius:  10px;
+}
+
+.nav-item a{
+    text-decoration:none;
+    list-style:none;
+}
+
+.nav-link{
+    color:black;
+    font: weight 600px;
+    font-size:20px;
+}
+
+.nav-item a:hover{
+    color:rgb(19, 15, 54);
+    font-size:24px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:bold;
+}
